@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Francis
 
-- 📚 I have a backing in Chemical Engineering (BASc and MASc from the University of Ottawa)
+- 📚 I have a background in Chemical Engineering (BASc and MASc from the University of Ottawa)
 
 - ✏️ I am a software developper in the domain of process control and optimization, specializing in data acquisition, analysis and system monitoring
+
+- 🕵️ Everything I know about coding is self-taught, so go easy on me! I'm learning every day...
 
 - 👀 I’m interested in 🚲cycling, 🎿skiing, 🎮gaming, 🥃whisky and 💻coding
 
