@@ -10,7 +10,7 @@
 
 - 📫 I’m currently learning MAUI, Blazor, and Entity Framework
 
-- 📧 Reach me on twitter @FrancisTKus
+- 📧 Reach me on X @FrancisTKus
 
 <!---
 ftkus/ftkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
