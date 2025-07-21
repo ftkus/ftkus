@@ -8,9 +8,7 @@
 
 - 👀 I’m interested in 🚲cycling, 🎿skiing, 🎮gaming, 🥃whisky and 💻coding
 
-- 📫 I’m currently learning MAUI, Blazor, and Entity Framework
-
-- 📧 Reach me on X @FrancisTKus
+- 📧 Reach me on Threads @francis.kus
 
 <!---
 ftkus/ftkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
